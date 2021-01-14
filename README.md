@@ -1,10 +1,9 @@
 # Today I learned
 
-## 20210110
+## 20210110부터 시작
 
-### Python
-Hello!
-
-* python
-* css3
-* html
+- 파이썬
+- R
+- 빅데이터
+- 머신러닝
+- 통계학
